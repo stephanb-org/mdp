@@ -1,0 +1,121 @@
+# Site
+name: 'Malta Dominican Province'
+description: 'Dominics brothers proclaim in churches and streets, universities and the media, loyal and dissident.'
+logo: 'assets/images/logo.jpg'
+favicon: 'assets/images/favicon.ico'
+baseurl: ''
+disqus: 'mdp-org-mt'
+email: 'claude3371@hotmail.com'
+mailchimp-list: 'https://mdp.us19.list-manage.com/subscribe/post?u=9e75cd3532ed9727fad95de9a&amp;id=71201cbf9b'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    sal:
+      name:           P. Claudio Borg O.P.
+      site:           https://mdp.org.mt
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Patri fil-Kunvent tal-Lunzjata"
+      email:          claude3371@hotmail.com
+      twitter:        https://www.facebook.com/claudio.borg
+
+    claudio:
+      name:           P. Claudio Borg O.P.
+      site:           https://mdp.org.mt
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Patri fil-Kunvent tal-Lunzjata"
+      email:          claude3371@hotmail.com
+      twitter:        https://www.facebook.com/claudio.borg
+
+stalberts:
+    francis:
+      name: Br. Francis Micallef 
+      qual: A.Mus.L.C.M, L.Mus.L.C.M., A.Mus.T.C.L., L.Mus.T.C.L
+      role: Rector & Bursar
+      email: frfrans@stalbert.edu.mt
+
+    aaron:
+      name: Br. Aaron Zahra 
+      qual: B.A., S.T.B. (PUST)
+      role: Pro Rector
+      email: aaronzahraop@gmail.com
+
+    mario:
+      name: Mr. Mario Mallia
+      qual: B.Ed.(Hons), Dip. Env.Sc., M.Ed., P.G.Dip.Ed.Adm, & Mgt
+      role: Headteacher
+      email: mmallia@stalbert.edu.mt
+
+    josef:
+      name: Mr. Josef Micallef 
+      qual: B.Ed. (Hons)
+      role: Deputy Headteacher, Senior School (Curriculum)
+      email: zepmic@maltanet.net
+
+    annabel:
+      name: Ms. Annabel Desira 
+      qual: B.Ed. (Hons), Maltese & EMY, PG Dip. Adult Educ.
+      role: Deputy Headteacher, Junior School
+      email: annabeldesira@gmail.com
+
+    anna:
+      name: Mrs. Anna Zarb 
+      qual: B.Ed. (Hons); M.A. (Hons.)
+      role: Inclusion co-ordinator, Senior School
+      email: azrb@stalbert.edu.mt
+
+    justin:
+      name: Br. Justin Schembri 
+      qual: B.A. (Gen), S.TH.B., SS.L (PIB), S.Th.D.
+      role: Spiritual Director for Senior School
+      email: justinschembri@hotmail.com
+
+    raymond:
+      name: Br. Raymond Gatt 
+      qual: B.A.(Gen), S.Th.B., SS.L. (Toulouse)
+      role: Spiritual Director for Senior School
+      email: gattrayop@yahoo.com
+
+    joseph:
+      name: Br. Joseph Zahra
+      qual: 
+      role: Spiritual Director Junior School
+      email: xandarop@yahoo.com                          
+
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sal
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Fake News Jew?"
+author: claudio
+categories: [ XANDAR IL-KELMA ]
+image: assets/images/001.jpg
+tags: [sticky]
+---
+
+Sa minn meta l-internet beda jkun għad-dispożizzjoni tagħna, il-Knisja dejjem fittxet li tippromwovi l-użu tiegħu biex in-nies jiġu aktar flimkien u biex ikun mezz ta’ solidarjetà bejn kulħadd. B’dan il-messaġġ nixtieq li għal darb’oħra nistedinkom tirriflettu fuq kemm hi ħaġa bażika u importanti li nkunu f’relazzjoni bejnietna u biex, f’dan il-baħar ta’ sfidi fil-kuntest komunikattiv tal-lum, niskopru mill-ġdid ix-xewqa tal-bniedem li ma jibqax waħdu, fis-solitudni tiegħu.
+
+Il-metafora tan-“net” u tal-“komunità”
+
+Illum, l-ambjent tal-midja tant sar mifrux li ma jintgħarafx mill-isfera tal-ħajja ta’ kuljum. In-netwerk huwa riżorsa ta’ żmienna. Hu għajn ta’ għarfien u relazzjonijiet li qatt ma konna noħolmuhom. Madankollu, hemm bosta esperti li meta jiġu biex jitkellmu dwar il-bidliet profondi li bihom it-teknoloġija qed timmarka l-loġika tal-produzzjoni, taċ-ċirkolazzjoni u tal-użu tal-kontenut, dawn jisħqu wkoll fuq ir-riskji li jheddu t-tfittxija u l-kondiviżjoni ta’ informazzjoni awtentika fuq skala globali. Jekk l-internet hu tassew possibbiltà straordinarja ta’ aċċess għall-għarfien, huwa veru wkoll li dan hu wieħed mill-postijiet l-aktar esposti għall-informazzjoni żbaljata u għat-tgħawwiġ konxju u immirat tal-fatti u tar-relazzjonijiet interpersonali, li spiss jintużaw biex itellfu l-krettu. Hemm bżonn nagħrfu li jekk min-naħa l-waħda n-netwerks soċjali jservu biex jgħaqqduna, biex insibu u ngħinu lil xulxin, min-naħa l-oħra dawn jiffaċilitaw l-użu manipulattiv ta’ informazzjoni personali, bl-għan ta’ vantaġġ fuq livell politiku jew ekonomiku, mingħajr rispett lejn il-persuna u d-drittijiet tagħha. L-istatistika turi li fost iż-żgħażagħ, wieħed minn kull erbgħa hu involut f’episodji ta’ cyberbulling[1]
+
+Fil-kumplessità ta’ dan ix-xenarju, forsi jiswa li mmorru lura lejn il-metafora tan-netwerk li tpoġġiet fil-bidu bħala l-bażi tal-internet, biex nirriflettu u niskopru mill-ġdid il-potenzjal pożittiv tagħha. Il-figura tan-netwerk tistedinna biex nirriflettu fuq l-għadd kbir ta’ linji u kif dawn jidħlu f’xulxin, xi ħaġa li tiżgura l-istabbiltà tan-netwerk minkejja li m’hemmx ċentru, li m’hemmx struttura ġerarkika, forma ta’ organizzazzjoni vertikali. In-netwerk jiffunzjona grazzi għas-sehem flimkien tal-elementi kollha.
+
+Jekk inħarsu lejn id-dimensjoni antropoloġika tal-metafora tan-netwerk, din tfakkarna f’figura oħra mimlija tifsiriet: dik tal-komunità. Aktar ma komunità tfittex li tkun magħquda u solidali, aktar ma tkun animata minn sentimenti ta’ fiduċja u tfittex objettivi komuni, aktar tkun b’saħħitha. Il-komunità bħala netwerk ta’ solidarjetà teħtieġ is-smigħ reċiproku u d-djalogu mibni fuq l-użu responsabbli tal-kelma.
+
+Fix-xenarju preżenti, ilkoll nistgħu naraw b’mod ċar li s-social network community mhijiex awtomatikament sinomina ma’ komunità. Fl-aħjar każi, dawn is-sistemi jirnexxilhom jagħtu prova ta’ għaqda u solidarjetà, iżda spiss jibqgħu sempliċiment gruppi ta’ individwi li jirrikonoxxu lil xulxin permezz ta’ interessi komuni jew tħassib karatterizzat minn rabtiet dgħajfa. Barra minn hekk, ħafna drabi fil-web soċjali l-identità tkun imsejsa fuq l-oppożizzjoni fil-konfront tal-persuna l-oħra, li tkun barranija għall-grupp. Wieħed iħares aktar lejn dak li jifred milli lejn dak li jgħaqqad, filwaqt li jagħti lok għas-suspett u għal sfog ta’ kull tip ta’ preġudizzju (etniku, sesswali, reliġjuż u oħrajn). Din it-tendtenza tinkoraġġixxi gruppi li jeskludu d-diversità u li anki fl-ambjent diġitali jappoġġaw individwaliżmu sfrenat, waqt li xi drabi jispiċċaw biex jispiraw mibegħda. Hekk, dik li suppost tkun tieqa fuq id-dinja ssir vetrina li fiha wieħed jesibixxi n-narċiżiżmu personali.
+
+In-netwerk hu opportunità li twassalna biex ningħaqdu mal-oħrajn, iżda jista’ wkoll isaħħaħ l-awto-iżolament tagħna, għax kapaċi jkun bħal għanqbuta li taqbadna fin-nassa tagħha. Iż-żgħażagħ huma dawk l-aktar esposti biex jilludu ruħhom u jaħsbu li l-web soċjali tista’ tissodisfahom għal kollox fuq livell relazzjonali. Dan qed iġib miegħu l-fenomenu perikoluż ta’ “eremiti soċjali” li jwassal liż-żgħażagħ għar-riskju li jinqatgħu kompletament mis-soċjetà. Din id-dinamika drammatika turi qasma serja fin-nisġa relazzjonali tas-soċjetà, ġerħa li ma nistgħux ninjorawha.
+
+Din ir-realtà multiformi u perikoluża ġġib magħha diversi kwistjonijiet ta’ natura etika, soċjali, ġuridika, politika, ekonomika, u hi sfida wkoll għall-Knisja. Filwaqt li l-gvernijiet qed ifittxu modi legali biex jirregolaw u jipproteġu l-viżjoni oriġinali ta’ netwerk ħieles, miftuħ u sigur, aħna lkoll
+għandna l-possibbiltà u r-responsabbiltà li nkattru l-użu pożittiv tiegħu
+
+Hi ħaġa ċara li mhux biżżejjed jiżdiedu l-konnessjonijiet biex tikber il-komprensjoni reċiproka. Mela, kif ser nerġgħu nsibu l-identità komunitarja vera filwaqt li nagħrfu r-responsabbiltà li għandna lejn xulxin anki fl-online netwerk
+“Aħna membri ta’ xulxin”
+
+Nistgħu nwieġbu billi nagħtu ħarsa lejn it-tielet metafora, dik tal-ġisem u l-membri tiegħu li San Pawl juża biex jitkellem dwar ir-relazzjoni ta’ reċiproċità bejn il-bnedmin, mibnija fuq organiżmu li jgħaqqadhom. “Warrbu minnkom il-gideb u għidu l-verità wieħed lill-ieħor, għax aħna membri ta’ xulxin” (Efes 4,25). L-Appostlu qed jisħaq li la aħna membri ta’ xulxin, mela jeħtieġ li nwarrbu l-gideb u ngħidu l-verità: l-obbligu li nħarsu l-verità jiġi mill-ħtieġa li r-relazzjoni ta’ komunjoni ta’ bejnietna ma tkunx gidba. Fil-fatt, il-verità timmanifesta ruħha fil-komunjoni. Min-naħa l-oħra, meta tigdeb tkun qed tiċħad b’mod egoistiku li inti parti mill-ġisem; tkun qed tiċħad li trid tagħti lilek innifsek lill-oħrajn, u hekk tkun qed titlef it-triq waħdanija biex issib lilek innifsek
+
+Il-metafora tal-ġisem u l-membri tiegħu twassalna biex nirriflettu fuq l-identità tagħna, li hi bbażata fuq il-komunjoni u fuq il-fatt li l-oħrajn huma differenti minna. Bħala Nsara, aħna lkoll membri tal-ġisem wieħed li tiegħu Kristu huwa r-ras. Dan jgħinna biex ma nħarsux lejn l-ieħor bħala xi ħadd li jikkompeti magħna, imma biex, anki jekk hu għadu tagħna, narawh bħala persuna. M’hemmx bżonn ta’ avversarju biex niddefinixxu lilna nfusna, għax il-ħarsa ta’ inklużjoni li jgħallimna Kristu twassalna biex niskopru lill-ieħor b’mod ġdid; narawh bħala parti integranti u meħtieġa biex ikun hemm relazzjoni u biex inkunu qrib xulxin.
+
+Kapaċità ta’ din ix-xorta biex il-bnedmin jagħrfu lil xulxin u jikkomunikaw bejniethom b’dan il-mod għandha l-għeruq tagħha fil-komunjoni ta’ mħabba li hemm fit-Tliet Persuni Divini. Alla mhuwiex Solitudni, imma Komunjoni; huwa Mħabba u għalhekk komunikazzjoni, għax l-imħabba tikkomunika dejjem, anzi tikkomunika lilha nnifisha biex tiltaqa’ mal-ieħor. Biex jikkomunika magħna u jagħtina lilu nnifsu, Alla adatta ruħu għal-lingwaġġ tagħna filwaqt li stabbilixxa djalogu veru mal-umanità matul l-istorja (ara Kon. Vatikan II, Dei Verbum, 2).
+
+PAPA FRANĠISKU
