@@ -2,7 +2,7 @@
 title: "About"
 layout: page-sidebar
 permalink: "/about.html"
-image: "/assets/images/domin.jfif"
+image: "/assets/images/about.jpg"
 comments: true
 ---
 
